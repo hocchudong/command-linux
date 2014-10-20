@@ -1,4 +1,5 @@
-Lenh_dmesg
+Command_dmesg
+###Lệnh dmesg hiển thị các messeage từ vòng đệm kernel. Hiển thị các thiết bị nhận biết được bởi kernel
 ==========
 ###1.	Lệnh list tất cả loaded drivers trong kernel
 
@@ -42,3 +43,7 @@ dmesg –c
 `````
 watch “dmesg | tail -20”
 `````
+####Link tham khảo 
+```
+http://www.tecmint.com/dmesg-commands/
+```
