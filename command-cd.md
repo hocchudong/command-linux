@@ -1,7 +1,7 @@
-Lệnh CD 
+Command-cd
 ============================
 ===
-
+Lệnh cd (change directory) là một trong những lệnh quan trọng và được sử dụng nhiều bởi các quản trị hệ thống. Lệnh cd cho phép người quản trị hệ thông di chuyển từ thư mục này đến thư mục khác trong hệ thống.
 ### 1.	Chuyển đến thư mục /usr/local
 ```
 root@controller:~#cd /usr/local
@@ -58,3 +58,5 @@ root@controller:/usr# cd test\ abc/; hoặc
 root@controller:/urs#cd 'test abc'; hoặc
 root@controller:/usr#cd "test abc"/
 ```
+### Link tham khảo:
+http://www.tecmint.com/cd-command-in-linux/
