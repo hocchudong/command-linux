@@ -1,8 +1,7 @@
 Command_dmesg
-
 ==========
 
-####Lệnh dmesg hiển thị các messeage từ vòng đệm kernel. Hiển thị các thiết bị nhận biết được bởi kernel
+Lệnh dmesg hiển thị các messeage từ vòng đệm kernel. Hiển thị các thiết bị nhận biết được bởi kernel
 ###1.	Lệnh list tất cả loaded drivers trong kernel
 
 `````
